@@ -22,8 +22,10 @@ text-align: center;
 /* this is to make a box around the title */
 #wrapper{
 box-shadow: 0 2px 7px;
-color:blue;
-margin:10;
+color:black;
+position: absolute;
+top:0;
+width:99%
 }
 
 #links {
@@ -31,6 +33,7 @@ box-shadow: 0 2px 7px;
 color:white;
 position: absolute;
 bottom:0;
+width:99%;
 }
 
 
