@@ -1,4 +1,4 @@
-body {background-color: blue;}
+body {background-color: grey;}
 
 <style>
 
@@ -23,6 +23,13 @@ header {
 text-align: center;
 
 }
+/* this is to make a box around the title */
+#wrapper 
+{ box-shadow 0 2px 7px color:blue;
+margin:10;
+
+	
+}
+
 
 </style>
-
