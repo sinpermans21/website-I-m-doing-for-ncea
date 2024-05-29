@@ -1,8 +1,4 @@
-body {background-color: grey;}
-
-<style>
-
-body {
+body {background-color: grey;
 
 margin: 0;
 
@@ -24,12 +20,22 @@ text-align: center;
 
 }
 /* this is to make a box around the title */
-#wrapper 
-{ box-shadow 0 2px 7px color:blue;
+#wrapper{
+box-shadow: 0 2px 7px;
+color:blue;
 margin:10;
+}
 
-	
+#links {
+box-shadow: 0 2px 7px;
+color:white;
+position: absolute;
+bottom:0;
 }
 
 
-</style>
+
+.flexbox{
+	list-style-type:none;
+	display:flex;
+}
