@@ -36,6 +36,36 @@ bottom:0;
 width:99%;
 }
 
+.flexbox{
+	list-style-type:none;
+	display:flex;
+}
+body-2{background-color: grey; 
+
+	margin: 0;
+
+padding: 0;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+min-height: 100vh;
+
+}
+
+	
+#photo_of_map {
+box-shadow: 0 2px 7px;
+position: absolute;
+width:99%;
+}
+	
+	
+	
+
 
 #photo_of_map
 
